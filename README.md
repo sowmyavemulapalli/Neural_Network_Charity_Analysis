@@ -18,6 +18,11 @@
           - In Third attempt, I have taken the 2 hidden layers with 27 and 10 neurons in each layer and relu activation in input layer and sigmoid activation in output layer and got the accuracy of 0.6960933208465576.
           - I tried to achieve the target performace with three attempts, I am almost close to the target performance.
           _ To increse the performance , I have done 3 attempts. In each attempt I have tried various scenarios to improve the performance and performance also got increased from  0.5331778526306152 to 0.6960933208465576.
+          
+   ![image](https://user-images.githubusercontent.com/86328230/140879439-653a7402-9539-45b4-898c-5593687b4f51.png)
+    
+    The final output is shown from the above image with the accuracy of 0.6960933208465576.
+
 
 # Neural_Network_Charity_Analysis Summary
   The summary of this project is we did analysis on this  data and analyze  different things using different machine learning models.
